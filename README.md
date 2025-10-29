@@ -132,8 +132,6 @@ The generated HTML includes:
 
 - **React 19**: UI framework
 - **Vite**: Build tool and development server
-- **ESLint**: Code linting
-- **Tailwind CSS**: Utility-first CSS (configured)
 
 ## 📝 Scripts
 
@@ -150,10 +148,3 @@ The generated HTML includes:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is private and proprietary.
-
-## 🙋 Support
-
-For issues or questions, please open an issue in the repository or contact the development team.
